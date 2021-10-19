@@ -1,0 +1,13 @@
+.App {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://i.pinimg.com/originals/a0/80/fa/a080faebdb78b8d0331428c2a28e50a4.jpg");
+    background-position: fixed;
+    background-size: cover;
+    /* min-height: 750px; */
+    height: 100vh;
+    min-height: fit-content;
+    width: 100vw;
+    min-width: fit-content;
+  }
+ 
